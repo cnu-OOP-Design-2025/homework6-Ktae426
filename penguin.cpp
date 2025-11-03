@@ -12,7 +12,7 @@ Penguin::~Penguin() {
 }
 
 void Penguin::cry() {
-    cout << "Squake!" << endl;
+    cout << "Squawk!" << endl;
 }
 
 void Penguin::fly() {
